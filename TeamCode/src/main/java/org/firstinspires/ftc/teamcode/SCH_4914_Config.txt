@@ -1,0 +1,27 @@
+###############################################################################
+# Config file - this will be saved to the robot phone or new controller.
+#               we connect with a USB cable.
+#
+#  # in first position is a comment
+#  | pipes seperate fields.
+#    setting   |  value    |  comments
+###############################################################################
+
+#Gyro
+#gyro.CorrectionSensitivity |               |  Get the other from the gyro class
+
+#Inputs
+#input_dDriverPowerPct       |  1.0          |  Percentage to filter driver poer. use .3 when kids are driving.
+
+# Robot Arm
+arm_iElevatorLevel0         | 0             |
+arm_iElevatorLevel1         | 200           |
+arm_iElevatorLevel2         | 400           |
+arm_iElevatorLevel3         | 600           |
+arm_iElevatorLevel4         | 800           |
+
+# Robot Base
+#base_
+
+# Auton
+#auto_

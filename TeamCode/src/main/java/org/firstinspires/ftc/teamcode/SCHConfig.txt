@@ -1,0 +1,48 @@
+#remember to remove comment # to activate setting
+
+#AutonValues
+
+#Inputs
+#input.dPowerReductionFactor  	| 0.4    | reduction for kids to drive robot
+#input.dTurnReductionFactor   	| 0.4   |
+#input.dCrabReductionFactor   	| 0.6   |   slightly higher as it is harder to crab
+#input.dFineControlPower         | .4    |
+
+#Sesnor 
+#Gyro
+#gyro.dCorrectionSensitivity      | .3      |
+#gyro.dCorrectionGain             | 0.05    |
+#gyro.dMaxCorrectionGain          | 0.75    |
+
+# Robot base
+#base.dDiskPusherServoHome        |  0.5 |
+#base.dDiskPusherServoExtended    | 0.75 |
+#base.dDiskThrowerPower           | 1.0  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
